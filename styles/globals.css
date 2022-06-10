@@ -14,3 +14,27 @@ a {
 * {
   box-sizing: border-box;
 }
+.global {  
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+ 
+}
+
+body{
+font-family: "Poppins", sans-serif;
+font-size:16px;
+line-height:1.5;
+color:#333;
+background-color: #a1c3ff;
+height:max-content;
+
+
+}
+h1,h2{
+margin-bottom:15px;
+}
+ul{
+list-style-type: none;
+
+}
