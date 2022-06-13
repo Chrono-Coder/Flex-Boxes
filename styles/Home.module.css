@@ -87,6 +87,12 @@
     display:block;
     text-align: center;
   }
+  .navbar ul li{
+    margin-left:10px;
+  }
+  .navbar a{
+    font-size:14px;
+  }
 }
 @media(min-width: 1100px){
   .container{

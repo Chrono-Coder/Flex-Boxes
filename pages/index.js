@@ -34,7 +34,7 @@ export default function Home() {
             basics of flexbox. Flexbox is a very important and useful tool in
             CSS.</p>
             </div>
-            <img  src="/images/grid.svg"></img>
+            <Image  src="/images/grid.svg" width={600}  height={600}></Image>
           </div>
         </header>
 
